@@ -41,7 +41,7 @@ This Bomberman game is a thrilling console-based action game built in C++ that s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bomberman-game.git
+   git clone https://github.com/mzt006/bomberman-game.git
    ```
 2. Compile the code using a C++ compiler (e.g., g++, Visual Studio).
 3. Run the executable file to start the game.
