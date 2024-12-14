@@ -105,8 +105,7 @@ This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 I
 
 You may not:
 - Use this code without crediting the original author (Muhammad Zain).
-- Modify or redistribute this work without explicit written permission.
-
+  
 For disputes regarding ownership or misuse, contact mztahir006@gmailcom
 
 ## Copyright
