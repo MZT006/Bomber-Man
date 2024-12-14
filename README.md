@@ -106,7 +106,7 @@ This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 I
 You may not:
 - Use this code without crediting the original author (Muhammad Zain).
   
-For disputes regarding ownership or misuse, contact mztahir006@gmailcom
+For disputes regarding ownership or misuse, contact mztahir006@gmail.com
 
 ## Copyright
 
