@@ -45,6 +45,7 @@ This Bomberman game is a thrilling console-based action game built in C++ that s
    ```
 2. Compile the code using a C++ compiler (e.g., g++, Visual Studio).
 3. Run the executable file to start the game.
+4. Add  your own .wav files for better customization.
 
 ---
 
