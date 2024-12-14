@@ -95,7 +95,7 @@ This Bomberman game is a thrilling console-based action game built in C++ that s
 
 ## Credits
 
-- Developed by Muhammad Zain
+- Developed by Muhammad Zain and team
 
 ---
 
@@ -104,7 +104,7 @@ This Bomberman game is a thrilling console-based action game built in C++ that s
 This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. 
 
 You may not:
-- Use this code without crediting the original author (Muhammad Zain).
+- Use this code without crediting the original author (Muhammad Zain and team).
   
 For disputes regarding ownership or misuse, contact mztahir006@gmail.com
 
